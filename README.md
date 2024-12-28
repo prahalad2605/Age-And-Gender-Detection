@@ -133,4 +133,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or suggestions, please contact:
-- **GitHub**: [Pridzzy](https://github.com/prahalad2605)
+- **GitHub**: [Prahalad](https://github.com/prahalad2605)
